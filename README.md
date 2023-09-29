@@ -1,17 +1,18 @@
 <!-- Your Name -->
 # Hello, I'm Mohnish 👋
 
-I'm a Full Stack Developer with 2.5 years of experience in building web applications. My passion is to build efficient, scalable, and user-friendly applications using React.js and related technologies.
+I'm a Full Stack Developer with 3.5 years of experience in building web applications. My passion is to build efficient, scalable, and user-friendly applications using React.js and related technologies.
 
 ## What I Do
 
 - Design and develop front-end features using React.js, Redux, and related technologies.
-- Collaborate with cross-functional teams, including designers, product managers, and other developers, to ensure optimal performance, scalability, and user experience.
+- Build robust server-side applications using Node.js and Express.js.
+- Design and implement RESTful APIs for communication between the front-end and back-end.
+- Handle database operations, including data modeling, querying, and optimization (e.g., using MongoDB, PostgreSQL, or other databases).
+- Create and maintain databases, ensuring data integrity and security.
+- Work closely with cross-functional teams, including designers, product managers, and other developers.
 - Implement server-side and client-side rendering techniques to improve performance and SEO.
-- Write efficient and scalable code using best practices and design patterns.
 - Test and debug code to ensure quality and performance, using frameworks such as Jest and Enzyme.
-- Deploy and maintain web applications in production environments, using cloud-based technologies such as AWS or Azure.
-- Keep up-to-date with industry trends and best practices, and continuously
 
 ## 🔧 Technologies & Tools
 
