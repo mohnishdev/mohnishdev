@@ -47,5 +47,5 @@ I'm always interested in new opportunities and collaborations, so feel free to r
 
 Email: devmohnishsharma@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohnishsharma23)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohnishdev)
 
