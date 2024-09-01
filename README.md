@@ -1,5 +1,5 @@
 <!-- Your Name -->
-# Hello, I'm [Mohnish] 👋
+# Hello, I'm Mohnish 👋
 
 I'm a Full Stack Web 3 Developer with expertise in Web 3 technologies like Solidity, Ethereum, as well as Web 2 technologies such as TypeScript, React.js, Node.js, Express, Next.js, and more.
 
