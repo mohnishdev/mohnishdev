@@ -1,60 +1,74 @@
 # Hello, I'm Mohnish 👋  
-**Full Stack Web 3 Developer** | Building Decentralized Futures  
+**Senior Frontend Engineer** | **Web3 Developer** | Building Scalable, Decentralized Interfaces
 
 ![Banner](https://raw.githubusercontent.com/mohnishdev/mohnishdev/main/assets/banner.gif)  
-*(Add your custom banner GIF/image here)*
+*Building at the intersection of performance, product thinking, and decentralization.*
 
 ---
 
-## 🚀 **What I Do**  
-- 🔗 Develop **smart contracts** and **dApps** using Solidity, Ethereum, and Hardhat  
-- 🌐 Architect **scalable web apps** with TypeScript, React.js, Next.js, and Node.js  
-- ⚡ Design **RESTful APIs** using Express.js, PostgreSQL, and MongoDB  
-- 🤝 Collaborate on **Web3 integrations** (IPFS, The Graph, Chainlink)  
-- 🛠️ Optimize code for **security**, **gas efficiency**, and **performance**  
+## 🚀 What I Do
+
+As a **Senior Frontend Engineer** passionate about the future of the web, I specialize in building **intelligent**, **scalable**, and **decentralized** user interfaces. From enterprise-grade legal tech dashboards to real-time blockchain visualizations, I design and ship **production-ready UIs** that solve real-world problems.
+
+- 🔗 Develop full-stack **Web3 dApps** with Solidity, Hardhat, IPFS, and The Graph  
+- ⚛️ Architect frontend systems with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**  
+- 🌍 Craft data-rich interfaces for **AI**, **semantic search**, and **real-time collaboration**  
+- 🔐 Prioritize security, scalability, accessibility, and performance in all builds  
+- 🧠 Lead frontend teams, mentor engineers, and set up CI/CD, testing, and scalable state management  
 
 ---
 
-## 🔧 **Technologies & Tools**  
+## 🛠️ Technologies & Tools
 
-### **Web3 Stack**  
+### 🌐 **Web3 & Blockchain**
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+![The Graph](https://img.shields.io/badge/TheGraph-5A3E85?style=for-the-badge&logo=the-graph&logoColor=white)
 ![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white)
 
-### **Frontend**  
+### 🎯 **Frontend Stack**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23000000.svg?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
 
-### **Backend**  
+### 🧰 **Backend & DevOps**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
-## 📁 **Featured Projects**  
+## 💼 Featured Projects
 
-| Project | Description | Tech Stack |  
-|---------|-------------|------------|  
-| **[Decentralized Exchange](https://github.com/mohnishdev/dex)** | AMM-based DEX with liquidity pools | Solidity, React, The Graph |  
-| **[NFT Marketplace](https://github.com/mohnishdev/nft-marketplace)** | Mint and trade ERC-721 tokens | Hardhat, Next.js, IPFS |  
-| **[DAO Governance](https://github.com/mohnishdev/dao-governance)** | Community-driven decision platform | Snapshot, TypeChain, Ethers.js |  
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**Decentralized Exchange**](https://github.com/mohnishdev/dex) | AMM-based DEX with liquidity pools and token swaps | Solidity, React, The Graph |
+| [**NFT Marketplace**](https://github.com/mohnishdev/nft-marketplace) | Mint, list, and trade ERC-721 tokens with IPFS storage | Next.js, Hardhat, IPFS |
+| [**DAO Governance Tool**](https://github.com/mohnishdev/dao-governance) | Community voting & treasury management via proposals | Snapshot, Ethers.js, TypeScript |
+| [**Muamelat Legal Platform**](https://github.com/mohnishdev/muamelat) | AI-powered legal project orchestration UI | React, Next.js, Redux, Three.js |
+| [**Word Add-In with AI Agents**](https://github.com/mohnishdev/msword-addin) | Live legal recommendations inside Word | React, Office.js, WebSockets |
 
-*(Replace with your actual pinned repos)*
+> 📌 Most projects are private/client-side; reach out for code samples or case studies.
 
 ---
 
-## 🔗 **Let's Connect!**  
+## 🧠 What I'm Learning / Exploring
+- zk-SNARKs, modular blockchains, and L2 rollups  
+- Smart contract security patterns & audit workflows  
+- Full-stack decentralized identity (DID / Verifiable Credentials)  
+- UX for Web3 onboarding and wallet abstractions  
+
+---
+
+## 📢 Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-FF4088?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devmohnishsharma@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohnishdev)
@@ -63,5 +77,5 @@
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mohnishdev&show_icons=true&theme=radical)  
+![Stats](https://github-readme-stats.vercel.app/api?username=mohnishdev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnishdev&layout=compact&theme=radical)
