@@ -69,7 +69,7 @@ As a **Senior Frontend Engineer** passionate about the future of the web, I spec
 ---
 
 ## 🧠 What I'm Learning / Exploring
-- Building Web3 based SSO platform like okta where user can login at one point and then user can login in different sites with same auth token . And Making it more friendly for web2 users so they dont feel web3 ecosystem like differnt thing
+- Building a Web3-based SSO platform similar to Okta, enabling users to authenticate once and seamlessly access multiple decentralized applications using a unified auth token. The platform is designed with a Web2-friendly experience in mind, ensuring users feel comfortable and confident transitioning into the Web3 ecosystem without facing the complexity or unfamiliarity often associated with it.
 - zk-SNARKs, modular blockchains, and L2 rollups  
 - Smart contract security patterns & audit workflows  
 - Full-stack decentralized identity (DID / Verifiable Credentials)  
