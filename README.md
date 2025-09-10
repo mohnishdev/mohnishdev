@@ -76,5 +76,4 @@ As a **Senior Frontend Engineer** passionate about the future of the web, I spec
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mohnishdev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohnishdev&layout=compact&theme=radical)
