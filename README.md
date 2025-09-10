@@ -10,11 +10,20 @@
 
 As a **Senior Frontend Engineer** passionate about the future of the web, I specialize in building **intelligent**, **scalable**, and **decentralized** user interfaces. From enterprise-grade legal tech dashboards to real-time blockchain visualizations, I design and ship **production-ready UIs** that solve real-world problems.
 
-- 🔗 Develop full-stack **Web3 dApps** with Solidity, Hardhat, IPFS, and The Graph  
-- ⚛️ Architect frontend systems with **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**  
-- 🌍 Craft data-rich interfaces for **AI**, **semantic search**, and **real-time collaboration**  
-- 🔐 Prioritize security, scalability, accessibility, and performance in all builds  
-- 🧠 Lead frontend teams, mentor engineers, and set up CI/CD, testing, and scalable state management  
+🔗 Develop full-stack Web3 dApps with Solidity, Hardhat, IPFS, and The Graph
+⚛️ Architect frontend systems with React, Next.js, TypeScript, and Tailwind CSS
+🔄 Build reusable, modular React component libraries with state management using Redux, Zustand, or React Query
+📱 Optimize React performance using memoization, lazy loading, and efficient rendering strategies
+📦 Design scalable APIs and backend services using Node.js, Express, and NestJS
+⚙️ Integrate RESTful and GraphQL APIs with Apollo Client, React Query, and efficient data caching mechanisms
+🔄 Implement server-side rendering (SSR) and static site generation (SSG) using Next.js to enhance SEO and load performance
+🧩 Manage authentication, session handling, and user permissions securely with JWT, OAuth, and Passport.js
+🧱 Establish CI/CD pipelines, unit and integration testing with Jest, React Testing Library, and Cypress
+🌍 Craft data-rich interfaces for AI, semantic search, and real-time collaboration
+🔐 Prioritize security, scalability, accessibility, and performance in all builds
+🧠 Lead frontend teams, mentor engineers, and set up CI/CD, testing, and scalable state management
+🚀 Implement microservices architecture and serverless functions using AWS Lambda, Vercel, or Cloudflare Workers
+📊 Monitor app performance with tools like Sentry, Datadog, and New Relic, and resolve bottlenecks proactively
 
 ---
 
@@ -53,7 +62,7 @@ As a **Senior Frontend Engineer** passionate about the future of the web, I spec
 | [**MoodChain NFTs**](https://github.com/mohnishdev/EmotionNFT) | A dynamic NFT collection featuring mood-flipping functionality with on-chain SVG generation, payment mechanisms, and comprehensive testing. |Solidity, Foundry, OpenZeppelin, ERC721, SVG, Base64, Git, Forge, Cast, Anvil, Chisel, EVM, Ethereum, Polygon, Arbitrum, Optimism |
 | [**Dao-governance-tool**](https://github.com/mohnishdev/decentralized-governance-system) | A comprehensive DAO governance system built with Solidity and Foundry, featuring proposal management, voting mechanisms, and treasury controls. | Solidity, Foundry, Testing, OpenZeppelin, DAO Architecture |
 | [**Muamelat Legal Platform**](https://www.mecellem.com/en/products/muamelat) | AI-powered legal project orchestration UI | React, Next.js, Redux, Three.js , Mantine , Node js , express js , redis , elastic search |
-| [**Word Add-In with AI Agents**](https://www.mecellem.com/en/products/muellif) |Create Contracts in Seconds with AI-Powered Templates | React, Typescript, WebSockets , Express Js , Graphql |
+| [**Muelif Ai based template creation**](https://www.mecellem.com/en/products/muellif) |Create Contracts in Seconds with AI-Powered Templates | React, Typescript, WebSockets , Express Js , Graphql |
 
 > 📌 Most projects are private/client-side; reach out for code samples or case studies.
 
