@@ -52,7 +52,7 @@ As a **Senior Frontend Engineer** passionate about the future of the web, I spec
 |--------|-------------|-------|
 | [**MoodChain NFTs**](https://github.com/mohnishdev/EmotionNFT) | A dynamic NFT collection featuring mood-flipping functionality with on-chain SVG generation, payment mechanisms, and comprehensive testing. |Solidity, Foundry, OpenZeppelin, ERC721, SVG, Base64, Git, Forge, Cast, Anvil, Chisel, EVM, Ethereum, Polygon, Arbitrum, Optimism |
 | [**Dao-governance-tool**](https://github.com/mohnishdev/decentralized-governance-system) | A comprehensive DAO governance system built with Solidity and Foundry, featuring proposal management, voting mechanisms, and treasury controls. | Solidity, Foundry, Testing, OpenZeppelin, DAO Architecture |
-| [**Muamelat Legal Platform**](https://www.mecellem.com/en/products/muamelat) | AI-powered legal project orchestration UI | React, Next.js, Redux, Three.js |
+| [**Muamelat Legal Platform**](https://www.mecellem.com/en/products/muamelat) | AI-powered legal project orchestration UI | React, Next.js, Redux, Three.js , Mantine , Node js , express js , redis , elastic search |
 | [**Word Add-In with AI Agents**](https://www.mecellem.com/en/products/muellif) |Create Contracts in Seconds with AI-Powered Templates | React, Typescript, WebSockets , Express Js , Graphql |
 
 > 📌 Most projects are private/client-side; reach out for code samples or case studies.
