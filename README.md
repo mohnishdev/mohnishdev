@@ -53,8 +53,8 @@ As a **Senior Frontend Engineer** passionate about the future of the web, I spec
 | [**Decentralized Exchange**](https://github.com/mohnishdev/dex) | AMM-based DEX with liquidity pools and token swaps | Solidity, React, The Graph |
 | [**MoodChain NFTs**](https://github.com/mohnishdev/EmotionNFT) | A dynamic NFT collection featuring mood-flipping functionality with on-chain SVG generation, payment mechanisms, and comprehensive testing. |Solidity, Foundry, OpenZeppelin, ERC721, SVG, Base64, Git, Forge, Cast, Anvil, Chisel, EVM, Ethereum, Polygon, Arbitrum, Optimism |
 | [**DAO Governance Tool**](https://github.com/mohnishdev/dao-governance) | Community voting & treasury management via proposals | Snapshot, Ethers.js, TypeScript |
-| [**Muamelat Legal Platform**](https://github.com/mohnishdev/muamelat) | AI-powered legal project orchestration UI | React, Next.js, Redux, Three.js |
-| [**Word Add-In with AI Agents**](https://github.com/mohnishdev/msword-addin) | Live legal recommendations inside Word | React, Office.js, WebSockets |
+| [**Muamelat Legal Platform**](https://www.mecellem.com/en/products/muamelat) | AI-powered legal project orchestration UI | React, Next.js, Redux, Three.js |
+| [**Word Add-In with AI Agents**](https://www.mecellem.com/en/products/muellif) |Create Contracts in Seconds with AI-Powered Templates | React, Typescript, WebSockets , Express Js , Graphql |
 
 > 📌 Most projects are private/client-side; reach out for code samples or case studies.
 
